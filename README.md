@@ -29,6 +29,20 @@ of intersectional hatred.
 In order to comply with [Twitter's terms and conditions](https://developer.twitter.com/en/developer-terms/more-on-restricted-use-cases), please contact the authors regarding information and uses of 
 the _Inters8_ corpus.
 
+## References
+If you use the resource, please cite:
+
+```
+@inproceedings{
+  spada2023inters,
+  title={Inters8: A Corpus to Study Misogyny and Intersectionality on Twitter},
+  author={Ivan Spada and Mirko Lai and Viviana Patti},
+  booktitle={Ninth Italian Conference on Computational Linguistics},
+  year={2023},
+  url={}
+}
+```
+
 ## Repository
 
 - `annotation`:
